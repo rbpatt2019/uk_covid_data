@@ -1,0 +1,15 @@
+configfile: "config/config.yaml"
+
+
+container: "docker://condaforge/mambaforge:4.11.0-0"
+
+
+include: "rules/common.smk"
+include: "rules/preprocessing.smk"
+include: "rules/plotting.smk"
+
+
+rule report:
+    input:
+        "results/plotting/adjusted_cases.png",
+        "results/plotting/adjusted_deaths.png",
