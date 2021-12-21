@@ -10,5 +10,5 @@ From left to right, row 1:
 
 From left to right, row 2:
 
-- The test-rate adjusted number of deaths per day, calculated as the numer of deaths divided by the numer of tests.
-- The case-rate adjusted number of deaths per day, calculated as the numer of deaths divided by the numer of cases.
+- The test-rate adjusted number of deaths per day, calculated as the numer of deaths divided by the number of tests.
+- The case-rate adjusted number of deaths per day, calculated as the numer of deaths divided by the number of cases.

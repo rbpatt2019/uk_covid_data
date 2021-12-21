@@ -9,4 +9,4 @@ From left to right, row 1:
 
 From left to right, row 2:
 
-- The test-rate adjusted number of cases per day, calculated as the numer of cases divided by the numer of tests.
+- The test-rate adjusted number of cases per day, calculated as the numer of cases divided by the number of tests.
